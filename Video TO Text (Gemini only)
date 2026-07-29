@@ -1,0 +1,23 @@
+Analyze the entire video carefully and transcribe all spoken dialogue and voiceover word-for-word.
+I want the complete spoken script of the video, not a summary, explanation, or rewrite.
+Instructions:
+
+
+Include every spoken word from the beginning to the end of the video.
+
+Do not paraphrase, summarize, improve, shorten, or rewrite the dialogue.
+
+Preserve the speaker's original wording, sentence structure, language, Hinglish, English, Hindi, slang, and expressions as closely as possible.
+
+If there are multiple speakers, separate their dialogue clearly as Speaker 1, Speaker 2, etc. If you can identify their roles, use labels such as Girl, Boy, Narrator, Voiceover, etc.
+
+Remove timestamps unless they are necessary to identify a change in speaker.
+
+Do not include descriptions of visuals, camera movements, background music, sound effects, or actions unless they contain spoken words.
+
+If a word or sentence is unclear because of audio quality, mark it as [unclear] rather than guessing.
+
+Keep the original sequence of the dialogue exactly as it occurs in the video.
+
+At the end, provide a separate section called “Unclear/Uncertain Words” listing anything you could not confidently transcribe.
+Output only the final transcript/script in a clean, readable format.
